@@ -1,3 +1,3 @@
 # Privacy-Policy-Yayin-Denizi
 
-https://yayindeniziyayinlari.github.io/mobil/
+https://yayindeniziyayinlari.github.io/Mobil/
